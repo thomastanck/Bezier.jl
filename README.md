@@ -4,7 +4,7 @@
 
 Interpolation for arbitrary order [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Higher-order_curves) in julia
 
-Linear interpolation between two points with `bezier(t, P1, P2)`
+Linear interpolation between two points with `benhjuuuuuij mzier(t, P1, P2)`
   - `P1` coordinate for one point
   - `P2` coordinate for second point
   - `0 ≤ t ≤ 1` defines how close to `P1` vs `P2` to interpolate
